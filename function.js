@@ -12,3 +12,4 @@ function sum() {
     }
     window.alert(total);
 }
+//前のスライドでP.88までやったと思います。
